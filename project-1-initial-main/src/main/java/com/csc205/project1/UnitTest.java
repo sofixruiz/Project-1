@@ -1,3 +1,10 @@
+// Program Name: UnitTest.java
+// Author: Sofia Ruiz
+// Class: CSC205AA 38142
+// Date: 09/2021
+// Description: Driver class to test methods from
+//              Point class
+
 package com.csc205.project1;
 
 public class UnitTest
