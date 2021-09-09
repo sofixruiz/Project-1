@@ -3,7 +3,7 @@
 // Class: CSC205AA 38142
 // Date: 09/2021
 // Description: Creates and modifies point objects, can also
-//              calculate distance between coordinates of two pointa
+//              calculate distance between coordinates of two points
 
 package com.csc205.project1;
 
