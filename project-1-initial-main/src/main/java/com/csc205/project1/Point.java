@@ -67,7 +67,7 @@ public class Point
     public void rotate(double angle)
     {
         // rotation aroudn origin is x' = xcos(theta) - ysin(theta)
-        // y = xsin(theta) + ycos(theta)
+        // y' = xsin(theta) + ycos(theta)
 
         x = ( (x * Math.cos(angle)) - (y * Math.sin(angle)) );
         y = ( (x * Math.sin(angle)) + (y * Math.cos(angle)) );
